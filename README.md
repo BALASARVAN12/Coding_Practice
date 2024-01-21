@@ -19,7 +19,7 @@ If you'd like to contribute a coding question, follow these steps:
 1. Fork the repository.
 2. Create a new branch for your contribution.
 3. Add your coding question to the README.md file following the format above.
-4. Add a link to your question in the "Daily Coding Questions" section in the README.
+4. Add a link to your question in the "Questions" section in the README.
 5. Submit a pull request.
 ## Resources
 
