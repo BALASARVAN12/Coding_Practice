@@ -1,6 +1,6 @@
 # Coding Practice
 
-Welcome to the Coding Practice repository! This is a collection of daily coding questions to help you improve your algorithmic and problem-solving skills.
+Welcome to the Coding Practice repository! This is a collection of coding questions to help you improve your algorithmic and problem-solving skills.
 
 ## Questions
 
